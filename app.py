@@ -1,6 +1,5 @@
 import tensorflow as tf
 import pickle
-import os
 import numpy as np
 import nltk
 import re
